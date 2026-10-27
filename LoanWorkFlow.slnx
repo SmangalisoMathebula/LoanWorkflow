@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LoanWorkflow.core/LoanWorkflow.Core.csproj" />
+  <Project Path="LoanWorkflow.Data/LoanWorkflow.Data.csproj" />
+  <Project Path="LoanWorkFlow.Tests/LoanWorkFlow.Tests.csproj" />
+  <Project Path="LoanWorkFlow.UI/LoanWorkFlow.UI.csproj" />
+</Solution>
